@@ -5,6 +5,8 @@ Created on Tue Feb 21 19:50:33 2017
 @author: vsnalam
 """
 
+#Example from Getting Started with Tensorflow book by Giancario Zaccone, Packt Publishing
+
 import os
 os.chdir("C:\Sreedhar\Software\Anaconda Python\Software\envs")
 import tensorflow as tf
